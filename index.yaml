@@ -1,0 +1,194 @@
+apiVersion: v1
+entries:
+  user-service-api-chart:
+  - apiVersion: v2
+    appVersion: 0.0.25
+    created: "2023-03-08T16:41:25.806017489Z"
+    description: Chart for my user service
+    digest: 79723db03cb6c5cf803ab8ccd519c60371b31647b3ec421597e8f7d58bbe513c
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.25/user-service-api-chart-0.0.25.tgz
+    version: 0.0.25
+  - apiVersion: v2
+    appVersion: 0.0.24
+    created: "2023-03-08T15:20:35.081729014Z"
+    description: Chart for my user service
+    digest: 29b0fe95e1c913616ad807c5a3162299d15332908b88ca1fac74aad1344da81f
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.24/user-service-api-chart-0.0.24.tgz
+    version: 0.0.24
+  - apiVersion: v2
+    appVersion: 0.0.23
+    created: "2023-03-08T14:52:08.946683845Z"
+    description: Chart for my user service
+    digest: fd471e957bf206ae481ce843e14aaa5ab6f8a7f5d47254f45b766617f75096f6
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.23/user-service-api-chart-0.0.23.tgz
+    version: 0.0.23
+  - apiVersion: v2
+    appVersion: 0.0.22
+    created: "2023-03-08T14:46:07.484316913Z"
+    description: Chart for my user service
+    digest: 8ba3c6599ec97cabc5f34145955728764bfb8d75627b15a8caa91947a277cbe1
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.22/user-service-api-chart-0.0.22.tgz
+    version: 0.0.22
+  - apiVersion: v2
+    appVersion: 0.0.21
+    created: "2023-03-07T17:44:36.344255199Z"
+    description: Chart for my user service
+    digest: dda4f5c297f5d5f15ebbd108f317435e1e6850a72bf0b672e0742385b1d6aa20
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.21/user-service-api-chart-0.0.21.tgz
+    version: 0.0.21
+  - apiVersion: v2
+    appVersion: 0.0.20
+    created: "2023-03-07T17:23:24.397560063Z"
+    description: Chart for my user service
+    digest: 622e41ef77ab5ba703bb27d8f16e0dd84c990105d07a124851e3e37a11f648d7
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.20/user-service-api-chart-0.0.20.tgz
+    version: 0.0.20
+  - apiVersion: v2
+    appVersion: 0.0.19
+    created: "2023-03-07T17:17:18.612357672Z"
+    description: Chart for my user service
+    digest: 4c6ae34e12ea03970fb04911c9226ac29e9825fa2bcb671315c4bee6cc0c4d9c
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.19/user-service-api-chart-0.0.19.tgz
+    version: 0.0.19
+  - apiVersion: v2
+    appVersion: 0.0.18
+    created: "2023-03-07T17:06:53.278908202Z"
+    description: Chart for my user service
+    digest: 270ae8313d20b8a66e5c0d3cbd62abf3ff61b3d65e396ddab15202a4b97c74da
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.18/user-service-api-chart-0.0.18.tgz
+    version: 0.0.18
+  - apiVersion: v2
+    appVersion: 0.0.17
+    created: "2023-03-07T16:58:27.629484521Z"
+    description: Chart for my user service
+    digest: 1df19578d1977c78a4a917ee7d672d6f8cafcd08bc9b4f87af89215175ee80b7
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.17/user-service-api-chart-0.0.17.tgz
+    version: 0.0.17
+  - apiVersion: v2
+    appVersion: 0.0.16
+    created: "2023-03-07T16:34:36.757752538Z"
+    description: Chart for my user service
+    digest: 088be106653ae80b253757d8c0c03f7ef8a841fa6387f8ab5faf31ad36993468
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.16/user-service-api-chart-0.0.16.tgz
+    version: 0.0.16
+  - apiVersion: v2
+    appVersion: 0.0.15
+    created: "2023-03-01T08:39:30.463623169Z"
+    description: Chart for my user service
+    digest: 115a4261aa13d09ab904cd9b6f7731027cf7dfd365fff5b88717f7dcdb322922
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.15/user-service-api-chart-0.0.15.tgz
+    version: 0.0.15
+  - apiVersion: v2
+    appVersion: 0.0.14
+    created: "2023-03-01T08:33:54.983249111Z"
+    description: Chart for my user service
+    digest: 25d58baed5d54c935d71ffde7f68aa75e354007a0cdee6d1ea49f8e872694e8f
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.14/user-service-api-chart-0.0.14.tgz
+    version: 0.0.14
+  - apiVersion: v2
+    appVersion: 0.0.13
+    created: "2023-02-28T13:26:21.095976618Z"
+    description: Chart for my user service
+    digest: c114e4e52a8dce97b38a32f2b5fbb8fe04331932c6136a72d51d3c0c4063895f
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.13/user-service-api-chart-0.0.13.tgz
+    version: 0.0.13
+  - apiVersion: v2
+    appVersion: 0.0.12
+    created: "2023-02-28T10:49:51.754734075Z"
+    description: Chart for my user service
+    digest: d18a81819610e2f42489b64f5f177dc9edfeb9253d473347652f9276b24ca5dd
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.12/user-service-api-chart-0.0.12.tgz
+    version: 0.0.12
+  - apiVersion: v2
+    appVersion: 0.0.11
+    created: "2023-02-28T09:53:58.070022283Z"
+    description: Chart for my user service
+    digest: 812690efeb8036fb5b92d11ffd9295b3b15ec5b28282fc3c906e5b4eba840716
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.11/user-service-api-chart-0.0.11.tgz
+    version: 0.0.11
+  - apiVersion: v2
+    appVersion: 0.0.10
+    created: "2023-02-28T09:42:09.365425165Z"
+    description: Chart for my user service
+    digest: c544dda6e16643bb0f5be372e3f4399ac52c56f99fa6e5dd6adc5ccbcfd80238
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.10/user-service-api-chart-0.0.10.tgz
+    version: 0.0.10
+  - apiVersion: v2
+    appVersion: 0.0.9
+    created: "2023-02-28T07:59:41.345609059Z"
+    description: Chart for my user service
+    digest: 2309e94e6d709286f313072f1a293cc0740277c14f66dcabb119d9e968b1c8a9
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.9/user-service-api-chart-0.0.9.tgz
+    version: 0.0.9
+  - apiVersion: v2
+    appVersion: 0.0.8
+    created: "2023-02-28T07:45:04.92160141Z"
+    description: Chart for my user service
+    digest: 5693e3d2ab3910fbd69873156a2931837e3f0398a9d3c32a84a7ad1ab842fc46
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.8/user-service-api-chart-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
+    appVersion: 0.0.7
+    created: "2023-02-27T21:16:47.861306231Z"
+    description: Chart for my user service
+    digest: 6cbe92339387a2854edd9aab479b456541e40da3c7f729b56b2127f27ca18784
+    name: user-service-api-chart
+    type: application
+    urls:
+    - https://github.com/zkooli/user-service-api/releases/download/user-service-api-chart-0.0.7/user-service-api-chart-0.0.7.tgz
+    version: 0.0.7
+generated: "2023-03-08T16:41:25.806126889Z"
